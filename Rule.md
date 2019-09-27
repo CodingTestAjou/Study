@@ -1,9 +1,21 @@
-# Study 일기장
+# 규칙
 
-### 2019.09.25. 첫번째 스터디
-스터디의 진행 방식을 논의하고, 그리디 관련 문제를 3개 풀었다.
-백준 방식의 알고리즘 연습을 처음해서, 입출력에 어려움을 겪었다.
 
-- 백준 5585 거스름돈: https://www.acmicpc.net/problem/5585
-- 백준 11399 ATM: https://www.acmicpc.net/problem/11399
-- 백준 2217 로프: https://www.acmicpc.net/problem/2217
+### 폴더 규칙
+
+```python
+if 스터디 종류 is 모의고사 :
+  return "모의고사 이름의 폴더" 
+elif 스터디 종류 is 알고리즘 종류 :
+  return "알고리즘 이름의 폴더"
+else :
+  return "날짜와 짧은 설명을 이름으로 갖는 폴더"
+```
+
+
+### 파일명 규칙
+
+문제이름.사람이름.확장자
+
+ex1) sort.chanhee.py
+ex2) find.chanhee.cpp
