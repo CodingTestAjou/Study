@@ -1,4 +1,7 @@
-# Study 일기장
+# 스터디 일기장
+
+여기에서 업로드 규칙을 확인하세요~ 
+https://github.com/CodingTestAjou/Study/blob/master/Rule.md
 
 ### 2019.09.25. 첫번째 스터디
 스터디의 진행 방식을 논의하고, 그리디 관련 문제를 3개 풀었다.
