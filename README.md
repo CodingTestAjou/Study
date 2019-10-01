@@ -14,5 +14,5 @@ https://github.com/CodingTestAjou/Study/blob/master/Rule.md
 ### 2019.10.02. 두번째 스터디 - BFS
 
 - sheep(백준 3184 양): https://www.acmicpc.net/problem/3184
-- colorWeakness(백준 10026 적록색약): https://www.acmicpc.net/problem/10026
+- color_weakness(백준 10026 적록색약): https://www.acmicpc.net/problem/10026
 - knight(백준 7562 나이트의 이동): https://www.acmicpc.net/problem/7562
